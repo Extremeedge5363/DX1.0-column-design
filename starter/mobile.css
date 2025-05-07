@@ -1,10 +1,12 @@
+
+/* ===== First section starts here===== */
 @media screen and (max-width:600px) {
-
-    .firstsection{
-        height: 520px;
-    }
-
- .firstsection-leftdiv{
+   
+   .firstsection{
+      height: 520px;
+   }
+   
+   .firstsection-leftdiv{
     width: 60%;
  }
  .firstsection-rightdiv{
@@ -32,6 +34,14 @@ font-size: 16px;
     width: 200px;
 }
 
-    
-}
 
+/* ===== First section ends here===== */
+
+/* ===== Second section starts here===== */
+
+.secondsection-rightdiv {
+   margin-left: 0;
+   margin-top: 30px;
+}
+/* ===== Second section ends here===== */
+}
